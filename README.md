@@ -1,0 +1,2 @@
+# AWSKinesisTest
+Test AWS Kinesis
